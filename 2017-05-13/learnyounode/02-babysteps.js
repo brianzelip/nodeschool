@@ -15,7 +15,7 @@ function addNumberArgs(arr) {
   return total
 };
 
-console.log(addNumberArgs([1, 2, 3,2,1,4,5,6,7,8,9]));
+console.log(addNumberArgs([3,2,1,4,5,6,7,8,9]));
 // console.log(addNumberArgs(process.argv));
 
 // console.log(typeof(process.argv[2]));
